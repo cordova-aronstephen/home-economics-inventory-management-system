@@ -1,0 +1,1 @@
+# Optional: for inventory.db or sample data
